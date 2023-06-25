@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+.blue-box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.green-box {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  position: absolute;
+}
+
+.score {
+  color: white;
+  font-size: 20px;
+}
