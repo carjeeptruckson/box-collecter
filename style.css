@@ -44,10 +44,6 @@ body {
 		violet, 4px 0 18px #0ff;
 }
 
-.h1 {
-  font-family: "Impact", Times, serif;
-}
-
 @keyframes spinBall {
 	100% {
 		-webkit-transform: rotate(360deg);
@@ -111,5 +107,6 @@ body {
 	width: 30vw;
 	color: #c9cbff;
 	left: 38vw;
+	font-family: "Impact", Times, serif;
 	margin: 30px auto auto auto;
 }
